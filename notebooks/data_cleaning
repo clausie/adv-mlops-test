@@ -89,7 +89,7 @@
    },
    "outputs": [],
    "source": [
-    "%run ../../../Includes/Classroom-Setup"
+    "%run ../../../Includes/Classroom-Setups"
    ]
   },
   {
